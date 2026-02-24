@@ -15,7 +15,7 @@ except ImportError:
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
-VIDEO_DIR = Path(r"C:\Users\Ryzen 5500\Desktop\Tryhard songs\Training")
+VIDEO_DIR = Path(r"C:\Videos")
 MUSIC_DIR = VIDEO_DIR / "Music"
 OUTPUT_PATH = VIDEO_DIR / "final_video_fast.mp4"
 TRANSCODED_DIR = VIDEO_DIR / "transcoded"
